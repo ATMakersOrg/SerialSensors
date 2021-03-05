@@ -1,6 +1,8 @@
 # SerialSensors
 A protocol and set of libraries to read sensors via the serial port.  Useful for WebSerial and MCU-MCU comms.
 
+Here's a document that can help show what we're looking for https://docs.google.com/document/d/1kFMqs5m0gzPVUjSe9lqyT530u-9IesOCGfMhnKY4_XE/edit?usp=sharing
+
 # Goals
 AT ATMakers we are consistently finding a need to communicate over basic UART links with no flow control and no significant buffering.  This project is meant to hold solutions to this problem.
 
